@@ -27,6 +27,9 @@ namespace Laba51
             Console.WriteLine(ReplaceCombinationsTwo(textByUser));
             Console.WriteLine();
             Console.WriteLine(Places(textByUser));
+            int a = 10;
+            Console.WriteLine($"Новое значение{a* a}")
+
 
         }
         /// <summary>
