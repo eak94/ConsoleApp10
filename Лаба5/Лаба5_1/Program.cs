@@ -53,6 +53,7 @@ namespace Laba51
                 //исключаем двойные пробелы
                 if (word.Length != 0)
                 {
+                    //добавляем в словарь слова 
                     strSplitted.Add(word);
                 }
             }
